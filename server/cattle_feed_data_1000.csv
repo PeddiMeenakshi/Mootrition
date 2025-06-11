@@ -1,0 +1,1001 @@
+Breed,Weight_kg,Age_years,Purpose,Weather,Dry_Fodder_kg,Concentrate_kg,Green_Fodder_kg
+Gir,498,10,Meat,Hot,5.85,2.95,9.15
+Gir,598,2,Meat,Hot,7.74,3.21,10.78
+Gir,330,7,Milk,Moderate,3.18,1.57,8.18
+Jersey,271,3,Meat,Hot,3.1,1.43,4.93
+Sahiwal,390,6,Meat,Cold,4.38,2.1,7.83
+Jersey,559,7,Meat,Hot,6.86,2.28,12.1
+Sahiwal,443,9,Meat,Moderate,5.14,2.06,8.08
+Gir,424,6,Milk,Moderate,4.43,1.33,10.48
+Sahiwal,563,8,Milk,Hot,5.27,2.0,11.44
+Red Sindhi,610,2,Meat,Cold,7.37,2.69,11.44
+Sahiwal,586,3,Meat,Moderate,7.08,2.53,11.96
+Jersey,266,7,Meat,Cold,2.93,1.45,5.68
+Gir,543,5,Meat,Cold,6.36,2.85,9.79
+Jersey,578,5,Milk,Cold,6.17,2.48,12.13
+Red Sindhi,513,7,Milk,Hot,5.57,2.28,10.83
+Jersey,411,6,Milk,Moderate,4.2,1.81,9.34
+Jersey,329,9,Milk,Moderate,3.12,1.57,7.99
+Holstein,487,10,Milk,Moderate,4.68,1.74,9.97
+Holstein,505,8,Meat,Cold,6.37,2.32,10.13
+Sahiwal,286,2,Meat,Cold,3.16,1.33,6.05
+Jersey,607,9,Milk,Moderate,6.34,2.93,13.97
+Jersey,427,9,Meat,Cold,5.19,1.82,8.58
+Sahiwal,517,4,Milk,Moderate,5.64,2.2,11.02
+Holstein,450,4,Milk,Cold,4.19,2.66,9.77
+Red Sindhi,373,9,Meat,Hot,4.26,1.72,7.48
+Jersey,288,4,Meat,Hot,3.44,1.55,5.74
+Sahiwal,358,8,Meat,Cold,3.96,2.06,6.52
+Jersey,437,4,Meat,Hot,4.89,2.02,8.93
+Jersey,532,4,Meat,Hot,6.22,2.86,11.64
+Red Sindhi,455,6,Meat,Moderate,5.82,1.84,9.85
+Holstein,371,4,Milk,Cold,3.92,1.8,8.28
+Holstein,385,5,Meat,Cold,4.46,1.77,8.04
+Gir,600,4,Meat,Moderate,6.81,3.43,11.09
+Sahiwal,474,5,Meat,Moderate,5.49,2.02,8.6
+Sahiwal,379,3,Meat,Cold,4.79,2.13,7.18
+Red Sindhi,547,10,Milk,Moderate,5.12,1.89,11.55
+Sahiwal,459,2,Meat,Moderate,5.48,2.47,8.47
+Gir,485,5,Milk,Cold,4.45,2.49,10.23
+Gir,596,5,Meat,Hot,7.22,3.37,11.96
+Red Sindhi,316,7,Milk,Moderate,3.32,1.42,7.2
+Gir,615,7,Meat,Hot,7.63,2.93,12.85
+Red Sindhi,484,2,Milk,Cold,4.78,2.66,10.16
+Holstein,313,9,Milk,Moderate,3.13,0.98,6.92
+Sahiwal,515,4,Milk,Hot,4.94,2.56,12.57
+Gir,312,3,Milk,Hot,3.22,1.0,6.88
+Holstein,406,5,Milk,Moderate,4.11,1.78,8.55
+Red Sindhi,263,8,Meat,Moderate,3.37,1.08,5.43
+Sahiwal,617,4,Milk,Cold,6.44,3.27,15.27
+Red Sindhi,337,10,Milk,Moderate,3.43,1.64,7.31
+Sahiwal,455,5,Meat,Moderate,5.91,1.93,9.9
+Sahiwal,510,6,Milk,Moderate,5.36,2.46,11.52
+Jersey,277,4,Milk,Hot,2.62,1.24,5.88
+Holstein,602,2,Meat,Cold,7.22,2.53,13.0
+Sahiwal,529,8,Meat,Hot,6.49,2.28,11.36
+Jersey,495,2,Meat,Moderate,5.99,2.81,9.44
+Red Sindhi,629,7,Meat,Cold,7.39,3.56,11.85
+Gir,470,3,Meat,Hot,5.55,2.32,10.11
+Gir,558,2,Meat,Hot,7.04,3.32,11.6
+Gir,551,2,Milk,Hot,5.77,1.83,11.14
+Holstein,446,5,Meat,Cold,4.99,2.15,8.15
+Gir,549,8,Meat,Cold,6.57,2.69,10.79
+Holstein,362,8,Meat,Moderate,3.99,1.7,7.64
+Sahiwal,478,10,Milk,Moderate,4.77,1.99,10.36
+Gir,498,4,Meat,Moderate,6.12,2.33,9.7
+Jersey,635,3,Milk,Moderate,5.97,1.92,15.27
+Jersey,638,2,Milk,Hot,5.91,2.96,15.47
+Sahiwal,430,4,Milk,Moderate,4.6,1.47,10.63
+Sahiwal,555,9,Milk,Cold,5.8,2.24,12.07
+Gir,313,9,Milk,Hot,2.86,1.02,6.4
+Sahiwal,439,4,Milk,Cold,4.09,2.56,9.92
+Holstein,436,6,Milk,Moderate,4.65,1.33,9.13
+Sahiwal,467,2,Milk,Hot,4.81,2.22,10.5
+Jersey,572,4,Milk,Cold,5.72,3.16,12.32
+Holstein,606,6,Milk,Cold,5.6,2.57,12.7
+Sahiwal,592,8,Meat,Hot,7.34,3.47,11.94
+Jersey,517,3,Meat,Hot,6.2,2.23,11.3
+Gir,379,10,Milk,Moderate,4.06,1.47,8.61
+Jersey,424,10,Milk,Cold,3.91,2.04,9.24
+Jersey,513,8,Meat,Hot,6.45,2.7,10.5
+Holstein,596,10,Meat,Moderate,7.56,3.45,13.04
+Holstein,314,5,Meat,Hot,3.73,1.78,6.7
+Jersey,478,5,Meat,Moderate,5.9,2.46,10.5
+Red Sindhi,506,9,Meat,Hot,6.54,2.94,10.15
+Holstein,285,6,Milk,Cold,2.84,1.7,6.67
+Holstein,420,7,Meat,Cold,4.85,2.13,8.09
+Holstein,299,4,Meat,Moderate,3.88,1.75,5.56
+Holstein,416,8,Meat,Moderate,4.74,2.01,7.5
+Jersey,287,9,Meat,Cold,3.31,1.66,5.64
+Jersey,326,2,Meat,Moderate,3.63,1.76,6.81
+Red Sindhi,255,3,Meat,Cold,3.1,1.16,5.02
+Holstein,503,3,Meat,Moderate,6.03,2.72,9.5
+Holstein,298,9,Meat,Cold,3.31,1.72,5.43
+Holstein,323,4,Meat,Hot,4.19,1.56,7.03
+Holstein,520,10,Meat,Cold,6.06,2.26,9.89
+Sahiwal,454,9,Meat,Hot,5.18,2.05,9.23
+Gir,356,8,Meat,Moderate,4.18,1.92,7.74
+Gir,280,3,Milk,Hot,2.68,1.35,6.94
+Red Sindhi,504,2,Meat,Hot,6.14,2.17,9.08
+Red Sindhi,562,10,Meat,Cold,6.57,2.58,10.59
+Red Sindhi,466,9,Meat,Cold,5.7,2.33,9.38
+Holstein,400,10,Meat,Hot,4.48,1.86,7.89
+Gir,545,5,Milk,Cold,5.68,2.43,13.22
+Jersey,411,6,Milk,Cold,4.02,2.01,8.42
+Holstein,490,6,Milk,Moderate,4.75,2.25,10.88
+Holstein,643,8,Meat,Moderate,8.03,3.68,13.76
+Holstein,628,3,Milk,Cold,6.45,3.38,12.82
+Sahiwal,525,5,Milk,Cold,4.8,2.84,11.17
+Holstein,605,10,Milk,Cold,6.35,3.06,13.76
+Sahiwal,255,3,Milk,Cold,2.62,1.05,5.42
+Gir,427,5,Meat,Hot,4.75,2.06,7.86
+Jersey,266,2,Meat,Hot,2.99,1.14,5.7
+Sahiwal,567,4,Meat,Moderate,6.5,2.83,12.22
+Holstein,403,4,Milk,Hot,4.04,1.49,9.3
+Red Sindhi,258,8,Milk,Moderate,2.5,1.25,6.05
+Jersey,623,7,Milk,Moderate,6.52,2.74,13.37
+Holstein,412,8,Meat,Hot,4.8,2.15,8.22
+Jersey,601,10,Meat,Cold,7.71,2.9,12.63
+Jersey,477,2,Milk,Cold,5.11,2.64,10.71
+Holstein,626,6,Meat,Hot,7.32,3.71,12.9
+Sahiwal,587,5,Milk,Moderate,5.47,2.16,12.0
+Red Sindhi,403,6,Meat,Hot,4.78,2.12,8.3
+Jersey,592,6,Meat,Cold,7.6,2.97,12.42
+Gir,370,3,Milk,Cold,3.34,2.05,8.46
+Sahiwal,381,4,Milk,Cold,3.86,1.62,8.35
+Jersey,492,5,Meat,Hot,5.82,2.75,10.16
+Sahiwal,431,8,Meat,Moderate,5.38,2.48,9.35
+Holstein,287,10,Meat,Cold,3.58,1.53,5.86
+Jersey,584,10,Meat,Moderate,7.3,2.96,11.07
+Jersey,560,4,Milk,Cold,6.04,2.46,13.79
+Gir,281,6,Meat,Moderate,3.26,1.24,6.01
+Gir,377,8,Milk,Moderate,3.88,1.34,7.79
+Gir,463,9,Milk,Cold,4.92,1.96,11.04
+Jersey,318,8,Meat,Hot,4.04,1.52,6.18
+Red Sindhi,290,6,Milk,Moderate,2.74,1.14,5.95
+Gir,267,6,Meat,Cold,3.09,1.49,5.74
+Gir,443,10,Milk,Moderate,4.26,2.02,10.07
+Red Sindhi,442,4,Meat,Cold,5.26,1.96,9.21
+Sahiwal,495,8,Milk,Moderate,4.74,1.85,11.24
+Holstein,382,5,Milk,Hot,3.44,1.67,8.94
+Jersey,344,5,Meat,Moderate,3.98,1.88,6.62
+Sahiwal,317,2,Meat,Moderate,3.79,1.5,6.0
+Holstein,599,2,Milk,Moderate,5.82,1.94,14.76
+Sahiwal,628,4,Meat,Cold,7.96,2.57,12.53
+Jersey,589,10,Meat,Hot,7.16,2.94,11.38
+Jersey,336,10,Milk,Hot,3.36,1.32,6.77
+Jersey,603,8,Milk,Moderate,5.55,1.94,14.18
+Holstein,437,5,Meat,Hot,5.26,2.06,8.28
+Jersey,606,6,Milk,Hot,5.88,2.12,12.35
+Red Sindhi,291,10,Meat,Cold,3.3,1.36,5.89
+Holstein,345,7,Meat,Cold,4.14,1.54,6.39
+Gir,537,10,Milk,Moderate,5.13,1.67,12.82
+Sahiwal,461,4,Meat,Moderate,5.73,2.36,9.79
+Sahiwal,279,10,Milk,Cold,2.93,1.32,6.05
+Holstein,351,9,Milk,Hot,3.66,1.6,8.28
+Gir,421,7,Milk,Moderate,3.99,1.76,8.71
+Red Sindhi,595,9,Milk,Hot,5.47,2.29,12.08
+Gir,593,2,Milk,Cold,5.64,2.6,14.3
+Red Sindhi,259,9,Meat,Cold,3.02,1.14,5.05
+Jersey,640,7,Milk,Hot,6.28,1.94,15.69
+Jersey,528,2,Meat,Hot,6.11,2.92,10.32
+Jersey,337,2,Meat,Cold,4.22,1.99,7.1
+Holstein,343,6,Meat,Cold,3.94,1.67,6.4
+Gir,618,8,Milk,Cold,6.26,3.37,13.98
+Jersey,350,9,Milk,Cold,3.16,1.79,7.6
+Holstein,492,3,Meat,Cold,6.3,2.4,9.66
+Holstein,632,7,Meat,Moderate,7.21,3.57,12.43
+Red Sindhi,509,4,Milk,Cold,5.46,3.04,10.53
+Jersey,645,6,Meat,Hot,8.25,3.54,11.78
+Red Sindhi,359,2,Meat,Moderate,4.28,2.05,6.72
+Gir,486,2,Milk,Moderate,4.43,1.5,10.26
+Gir,270,8,Milk,Cold,2.85,1.19,6.31
+Jersey,416,5,Milk,Hot,4.06,1.34,8.92
+Jersey,453,5,Meat,Cold,5.45,2.42,8.98
+Red Sindhi,502,7,Milk,Moderate,4.7,1.86,11.28
+Jersey,518,9,Meat,Cold,6.73,3.07,9.34
+Red Sindhi,419,7,Meat,Hot,5.41,2.08,8.38
+Red Sindhi,516,8,Meat,Cold,5.73,2.21,9.65
+Red Sindhi,535,9,Milk,Moderate,4.88,2.29,11.3
+Red Sindhi,406,9,Milk,Moderate,4.2,1.56,8.45
+Sahiwal,358,8,Milk,Cold,3.58,1.79,7.63
+Gir,340,8,Milk,Moderate,3.33,1.21,6.94
+Holstein,544,7,Milk,Cold,5.39,3.23,11.29
+Holstein,456,7,Meat,Cold,5.16,2.62,9.96
+Sahiwal,476,3,Meat,Cold,5.44,2.51,9.64
+Red Sindhi,394,3,Meat,Hot,4.67,2.08,7.72
+Red Sindhi,380,3,Milk,Cold,3.49,2.2,8.69
+Jersey,414,7,Meat,Cold,4.9,2.22,7.73
+Holstein,441,5,Meat,Moderate,5.55,2.24,8.1
+Holstein,581,9,Meat,Hot,7.23,3.36,10.99
+Holstein,274,5,Milk,Hot,2.78,1.24,5.96
+Gir,363,5,Meat,Moderate,4.59,1.93,7.8
+Red Sindhi,564,9,Meat,Moderate,6.98,3.12,12.1
+Jersey,468,6,Meat,Hot,5.54,2.41,10.08
+Gir,463,10,Meat,Moderate,5.83,2.71,9.97
+Red Sindhi,558,2,Meat,Moderate,6.14,3.07,11.7
+Sahiwal,453,9,Milk,Moderate,4.14,1.92,9.68
+Holstein,484,9,Milk,Cold,5.2,2.23,10.46
+Gir,644,3,Meat,Moderate,7.29,3.83,12.94
+Red Sindhi,544,4,Milk,Cold,5.07,3.25,11.64
+Jersey,495,5,Milk,Hot,4.75,1.85,9.9
+Holstein,511,7,Milk,Moderate,5.14,1.75,12.27
+Holstein,560,2,Milk,Cold,5.93,3.02,13.34
+Holstein,367,9,Milk,Cold,3.56,1.65,9.0
+Gir,373,7,Meat,Cold,4.67,1.61,8.16
+Sahiwal,544,9,Meat,Hot,6.15,2.71,10.08
+Sahiwal,577,2,Meat,Cold,7.01,2.66,10.6
+Sahiwal,443,4,Meat,Hot,4.88,1.79,8.43
+Gir,467,3,Meat,Moderate,6.04,2.58,9.77
+Holstein,614,7,Milk,Cold,6.28,3.35,12.44
+Red Sindhi,647,8,Meat,Cold,8.21,3.83,11.93
+Jersey,557,6,Milk,Moderate,6.05,1.87,13.43
+Gir,629,4,Meat,Hot,7.34,3.31,13.05
+Sahiwal,443,9,Meat,Hot,5.66,2.21,8.36
+Jersey,335,2,Milk,Moderate,3.05,1.28,7.05
+Gir,634,6,Meat,Cold,7.88,3.24,11.65
+Holstein,439,5,Milk,Cold,4.27,1.86,9.69
+Gir,545,2,Meat,Hot,6.59,3.17,11.2
+Gir,562,4,Milk,Hot,5.83,1.95,13.29
+Sahiwal,439,5,Milk,Moderate,4.64,1.69,10.1
+Holstein,263,6,Meat,Cold,3.03,1.56,5.66
+Sahiwal,531,6,Milk,Cold,5.76,2.58,11.62
+Holstein,334,2,Milk,Moderate,3.13,1.05,6.74
+Red Sindhi,379,5,Milk,Cold,4.1,1.87,8.91
+Red Sindhi,461,8,Meat,Hot,5.69,1.96,9.06
+Red Sindhi,613,2,Milk,Cold,5.91,3.44,14.92
+Sahiwal,250,2,Milk,Hot,2.39,0.78,5.4
+Holstein,518,2,Meat,Moderate,6.35,2.2,10.19
+Red Sindhi,632,4,Meat,Cold,7.29,2.76,11.72
+Holstein,483,6,Milk,Cold,4.9,2.52,10.22
+Red Sindhi,453,4,Milk,Hot,4.53,1.41,10.68
+Jersey,365,7,Meat,Hot,4.74,2.15,7.7
+Gir,604,6,Milk,Hot,5.47,2.86,12.58
+Sahiwal,544,2,Meat,Cold,6.26,2.81,11.14
+Sahiwal,281,7,Meat,Moderate,3.26,1.29,5.52
+Sahiwal,550,9,Meat,Cold,6.73,2.84,11.95
+Gir,319,9,Meat,Cold,3.89,1.76,5.81
+Gir,397,10,Meat,Hot,4.87,2.06,8.48
+Red Sindhi,608,4,Meat,Hot,6.7,3.43,12.65
+Holstein,554,5,Milk,Moderate,5.56,1.98,11.48
+Red Sindhi,525,3,Meat,Hot,5.97,2.63,9.6
+Holstein,646,7,Milk,Hot,6.34,2.28,14.61
+Gir,413,5,Milk,Hot,4.54,1.72,9.99
+Gir,322,7,Milk,Hot,3.37,0.98,6.51
+Gir,448,5,Milk,Cold,4.55,2.64,9.12
+Sahiwal,400,2,Milk,Hot,3.64,1.68,9.12
+Gir,512,3,Meat,Cold,6.6,2.35,10.18
+Holstein,471,6,Meat,Moderate,5.94,2.17,8.84
+Holstein,373,3,Meat,Cold,4.46,1.86,7.96
+Jersey,278,10,Milk,Moderate,2.8,0.85,6.67
+Holstein,570,6,Milk,Hot,6.15,2.11,12.43
+Red Sindhi,426,6,Meat,Hot,5.09,2.42,8.46
+Red Sindhi,361,4,Meat,Hot,4.13,2.11,7.64
+Holstein,290,3,Meat,Moderate,3.31,1.66,5.48
+Gir,629,7,Milk,Cold,6.69,3.57,15.16
+Gir,521,5,Milk,Cold,5.31,2.67,11.54
+Gir,583,2,Milk,Moderate,6.23,2.39,12.75
+Holstein,574,10,Meat,Moderate,6.88,3.14,11.01
+Red Sindhi,280,6,Milk,Moderate,2.84,1.16,6.53
+Jersey,417,5,Meat,Moderate,5.23,2.35,8.18
+Red Sindhi,365,10,Milk,Hot,4.01,1.61,8.35
+Gir,364,5,Meat,Hot,4.43,1.53,6.95
+Sahiwal,579,2,Meat,Cold,6.97,2.81,10.97
+Holstein,534,4,Meat,Cold,5.92,2.3,10.51
+Sahiwal,376,5,Milk,Hot,3.78,1.4,7.85
+Gir,567,7,Meat,Hot,6.51,3.34,10.35
+Holstein,500,10,Milk,Moderate,5.49,2.25,12.41
+Sahiwal,301,4,Meat,Moderate,3.74,1.31,5.7
+Jersey,422,9,Meat,Cold,4.73,1.76,8.93
+Holstein,339,9,Meat,Moderate,3.96,1.87,7.24
+Sahiwal,549,2,Milk,Moderate,5.88,1.94,12.18
+Red Sindhi,540,5,Milk,Moderate,5.03,2.35,13.5
+Red Sindhi,532,2,Meat,Hot,6.3,2.69,10.08
+Holstein,633,7,Meat,Hot,7.13,2.57,12.49
+Red Sindhi,437,8,Meat,Hot,5.5,1.95,8.45
+Sahiwal,254,7,Meat,Cold,2.96,1.26,5.5
+Jersey,409,4,Milk,Hot,4.41,1.25,9.35
+Sahiwal,647,3,Meat,Moderate,7.98,3.86,13.27
+Jersey,459,10,Milk,Moderate,4.51,2.02,11.21
+Red Sindhi,389,10,Meat,Cold,4.36,1.98,7.16
+Gir,383,10,Milk,Hot,4.09,1.73,7.69
+Holstein,507,4,Milk,Moderate,5.26,2.52,12.16
+Gir,435,5,Milk,Moderate,4.43,1.58,10.74
+Red Sindhi,610,6,Meat,Hot,7.91,2.78,11.75
+Gir,286,9,Milk,Hot,2.66,0.9,6.13
+Gir,407,5,Meat,Moderate,4.97,1.71,7.51
+Sahiwal,495,10,Meat,Cold,5.63,2.36,9.81
+Gir,473,3,Meat,Hot,6.0,2.61,8.8
+Holstein,577,3,Meat,Cold,7.33,3.17,11.79
+Holstein,599,3,Meat,Moderate,7.58,3.03,12.54
+Jersey,515,6,Meat,Cold,6.24,2.12,10.33
+Holstein,450,4,Milk,Moderate,4.94,1.69,10.63
+Red Sindhi,570,9,Milk,Moderate,6.15,1.86,14.08
+Jersey,595,6,Meat,Cold,6.87,3.43,12.39
+Red Sindhi,273,10,Milk,Hot,2.66,1.09,6.46
+Holstein,600,2,Milk,Cold,5.77,2.46,14.98
+Sahiwal,444,5,Milk,Moderate,4.17,1.43,10.04
+Holstein,535,3,Meat,Hot,6.85,2.78,10.73
+Holstein,562,6,Meat,Cold,7.08,2.69,10.91
+Gir,567,5,Milk,Cold,5.98,2.62,12.59
+Holstein,321,10,Milk,Hot,3.45,1.12,7.54
+Red Sindhi,597,5,Milk,Moderate,6.34,2.35,14.22
+Gir,425,9,Meat,Cold,5.05,2.06,8.61
+Sahiwal,382,7,Milk,Cold,3.6,2.28,7.77
+Red Sindhi,571,9,Milk,Cold,5.68,3.22,12.42
+Sahiwal,639,4,Milk,Cold,6.93,3.41,13.96
+Red Sindhi,571,8,Milk,Cold,6.25,2.87,13.86
+Gir,271,5,Milk,Cold,2.68,1.56,6.18
+Jersey,433,7,Meat,Moderate,4.8,2.41,8.84
+Red Sindhi,377,9,Meat,Hot,4.58,1.93,7.7
+Red Sindhi,358,3,Milk,Cold,3.86,1.54,7.17
+Red Sindhi,310,4,Meat,Hot,3.74,1.42,6.75
+Red Sindhi,551,5,Milk,Hot,5.31,1.68,11.06
+Red Sindhi,435,4,Milk,Moderate,4.43,2.12,9.49
+Holstein,578,2,Milk,Cold,6.18,3.42,12.09
+Red Sindhi,647,3,Milk,Cold,6.34,2.86,14.93
+Sahiwal,463,3,Milk,Cold,4.63,1.93,10.64
+Holstein,313,8,Meat,Moderate,4.04,1.83,6.86
+Red Sindhi,564,2,Milk,Cold,6.17,3.07,11.8
+Gir,446,10,Milk,Cold,4.38,2.43,9.2
+Red Sindhi,371,7,Meat,Hot,4.21,2.05,7.08
+Red Sindhi,570,10,Milk,Moderate,5.43,2.56,11.78
+Gir,414,7,Meat,Cold,5.02,2.36,7.77
+Sahiwal,404,8,Milk,Cold,3.64,1.71,9.19
+Sahiwal,294,2,Meat,Moderate,3.49,1.39,6.35
+Red Sindhi,334,7,Meat,Cold,4.13,1.48,6.18
+Jersey,359,10,Milk,Cold,3.51,1.61,7.45
+Gir,465,7,Meat,Hot,5.66,2.65,9.91
+Red Sindhi,284,5,Meat,Cold,3.61,1.47,6.14
+Jersey,575,7,Meat,Moderate,7.09,2.93,12.39
+Red Sindhi,279,4,Milk,Cold,3.01,1.56,6.92
+Holstein,538,6,Milk,Cold,5.17,2.63,11.56
+Gir,447,9,Meat,Moderate,5.29,2.55,9.67
+Red Sindhi,274,2,Meat,Hot,3.54,1.49,5.9
+Jersey,597,2,Milk,Moderate,6.55,2.51,12.94
+Jersey,424,10,Milk,Hot,4.52,1.3,9.38
+Gir,512,6,Milk,Moderate,4.78,2.02,10.31
+Gir,443,8,Meat,Hot,5.15,2.49,9.66
+Red Sindhi,645,8,Meat,Moderate,7.89,2.69,12.58
+Holstein,530,10,Milk,Hot,4.96,1.61,12.21
+Jersey,462,7,Meat,Moderate,5.25,2.45,10.14
+Holstein,608,7,Meat,Moderate,7.37,3.51,12.79
+Jersey,360,9,Milk,Moderate,3.48,1.5,7.81
+Holstein,318,7,Meat,Hot,3.82,1.74,5.8
+Holstein,603,8,Milk,Cold,5.93,2.83,12.91
+Gir,254,9,Milk,Hot,2.76,1.24,5.82
+Sahiwal,581,6,Milk,Moderate,5.38,2.36,13.87
+Gir,298,8,Meat,Moderate,3.71,1.49,5.61
+Jersey,339,9,Meat,Hot,3.9,1.86,6.45
+Sahiwal,332,5,Meat,Moderate,3.83,1.52,6.63
+Gir,265,9,Meat,Hot,3.03,1.34,5.16
+Gir,305,2,Meat,Hot,3.76,1.27,5.91
+Red Sindhi,366,9,Milk,Hot,3.73,1.28,7.36
+Jersey,444,8,Milk,Moderate,4.77,1.36,10.32
+Holstein,557,5,Milk,Cold,5.84,2.66,13.06
+Sahiwal,630,4,Milk,Cold,6.44,2.64,14.37
+Jersey,483,8,Milk,Hot,4.8,1.67,9.75
+Jersey,641,3,Milk,Hot,6.3,2.99,13.41
+Jersey,253,8,Meat,Moderate,2.99,1.05,5.43
+Gir,393,7,Milk,Cold,4.22,1.76,8.82
+Jersey,252,4,Meat,Hot,3.12,1.35,4.76
+Red Sindhi,445,5,Milk,Moderate,4.69,1.44,9.5
+Gir,507,7,Milk,Hot,5.44,2.02,12.26
+Gir,277,5,Milk,Hot,2.65,1.08,6.46
+Sahiwal,625,7,Meat,Hot,7.94,3.36,12.8
+Jersey,326,4,Meat,Hot,3.77,1.34,6.39
+Jersey,378,10,Milk,Moderate,3.86,1.56,8.33
+Jersey,638,3,Milk,Cold,6.41,3.51,14.23
+Red Sindhi,433,5,Meat,Hot,5.54,2.0,9.2
+Red Sindhi,314,3,Meat,Hot,3.48,1.33,6.86
+Gir,422,4,Milk,Cold,4.05,1.69,10.53
+Gir,629,8,Meat,Cold,8.06,3.59,12.17
+Jersey,324,2,Meat,Hot,3.94,1.69,6.16
+Sahiwal,403,8,Meat,Cold,4.48,1.84,7.4
+Red Sindhi,502,6,Milk,Moderate,4.74,2.33,11.65
+Holstein,390,6,Milk,Cold,3.52,1.72,9.4
+Jersey,493,2,Milk,Hot,4.73,1.89,11.72
+Jersey,537,5,Milk,Hot,4.9,2.46,12.04
+Gir,442,4,Milk,Cold,4.42,1.87,10.19
+Gir,579,2,Milk,Moderate,5.85,2.63,14.24
+Holstein,633,10,Meat,Cold,7.96,2.56,12.17
+Jersey,303,4,Milk,Hot,2.74,1.47,7.18
+Red Sindhi,259,6,Milk,Hot,2.55,1.07,5.19
+Holstein,272,3,Milk,Hot,2.65,1.34,5.76
+Sahiwal,519,6,Milk,Moderate,5.6,2.3,10.62
+Jersey,339,9,Milk,Hot,3.11,1.38,8.13
+Holstein,290,2,Meat,Hot,3.6,1.41,6.13
+Jersey,252,6,Milk,Cold,2.33,1.1,5.39
+Sahiwal,623,7,Meat,Moderate,7.61,2.83,12.2
+Jersey,615,4,Meat,Hot,7.74,2.93,12.82
+Jersey,485,10,Milk,Moderate,4.46,1.87,11.93
+Holstein,529,9,Meat,Moderate,6.12,3.05,11.07
+Gir,331,4,Milk,Moderate,3.51,1.45,6.78
+Jersey,405,6,Meat,Cold,5.25,2.2,8.08
+Jersey,561,3,Meat,Hot,6.9,2.85,11.31
+Red Sindhi,586,7,Milk,Cold,5.47,3.08,14.01
+Red Sindhi,342,4,Milk,Hot,3.3,1.08,7.38
+Holstein,584,9,Meat,Cold,7.2,3.46,12.17
+Holstein,604,10,Milk,Cold,5.47,3.5,13.04
+Gir,445,8,Meat,Moderate,5.18,2.14,8.82
+Holstein,287,9,Milk,Cold,3.03,1.65,6.46
+Jersey,486,7,Meat,Cold,6.06,2.64,10.26
+Jersey,419,10,Meat,Hot,4.95,2.19,7.73
+Red Sindhi,267,2,Milk,Hot,2.57,1.26,5.96
+Holstein,392,2,Milk,Hot,3.73,1.81,8.17
+Holstein,632,2,Meat,Hot,7.52,3.34,11.67
+Red Sindhi,306,9,Meat,Cold,3.45,1.33,6.66
+Sahiwal,536,8,Milk,Moderate,4.9,1.78,11.03
+Sahiwal,579,5,Meat,Moderate,7.46,2.81,11.52
+Holstein,622,4,Meat,Hot,6.86,2.89,12.73
+Jersey,277,4,Milk,Moderate,2.97,0.86,5.88
+Red Sindhi,632,8,Meat,Cold,7.75,3.72,12.62
+Gir,386,4,Meat,Hot,4.37,1.96,7.43
+Jersey,555,10,Milk,Cold,5.73,2.83,12.52
+Gir,620,2,Milk,Moderate,6.42,3.1,15.25
+Sahiwal,556,3,Milk,Moderate,5.82,2.26,13.53
+Holstein,565,10,Milk,Moderate,5.72,2.25,13.8
+Red Sindhi,578,3,Meat,Moderate,7.02,3.29,12.2
+Red Sindhi,319,6,Meat,Hot,3.74,1.55,6.14
+Gir,409,10,Milk,Hot,4.1,1.43,10.21
+Sahiwal,642,9,Meat,Cold,8.27,2.93,13.76
+Gir,556,2,Meat,Cold,7.13,2.88,12.14
+Gir,476,9,Milk,Cold,4.69,1.98,9.95
+Holstein,458,10,Milk,Moderate,4.84,1.94,10.97
+Sahiwal,598,8,Milk,Moderate,5.56,2.28,14.47
+Red Sindhi,516,7,Milk,Moderate,4.69,1.97,11.91
+Holstein,465,8,Meat,Hot,5.97,2.02,8.61
+Gir,293,8,Milk,Moderate,2.92,1.09,7.25
+Holstein,326,10,Milk,Hot,3.42,1.49,7.61
+Jersey,580,2,Meat,Hot,7.4,2.48,11.91
+Sahiwal,354,8,Milk,Moderate,3.62,1.6,7.61
+Sahiwal,535,10,Milk,Moderate,5.12,1.76,12.34
+Holstein,512,9,Meat,Moderate,6.01,2.59,10.22
+Red Sindhi,620,4,Milk,Moderate,5.96,2.15,13.09
+Sahiwal,571,10,Meat,Moderate,7.04,2.56,11.03
+Jersey,493,9,Meat,Cold,5.91,2.66,9.45
+Red Sindhi,258,10,Milk,Cold,2.75,1.47,6.44
+Gir,384,3,Milk,Moderate,4.06,1.65,8.29
+Red Sindhi,486,10,Milk,Hot,5.09,1.97,10.04
+Sahiwal,561,3,Milk,Cold,5.42,2.99,13.97
+Holstein,443,2,Milk,Hot,4.41,1.42,10.7
+Jersey,427,5,Meat,Cold,5.09,2.49,8.31
+Red Sindhi,376,2,Milk,Moderate,3.67,1.62,8.12
+Gir,620,9,Milk,Moderate,6.03,2.01,13.05
+Jersey,528,6,Milk,Cold,5.75,2.33,11.06
+Holstein,260,5,Milk,Cold,2.56,1.51,6.48
+Jersey,430,8,Meat,Moderate,5.11,1.98,8.02
+Jersey,356,9,Meat,Hot,4.24,2.0,7.6
+Holstein,386,8,Meat,Cold,4.86,2.13,7.13
+Holstein,582,4,Milk,Moderate,6.21,2.74,13.91
+Red Sindhi,636,4,Meat,Hot,7.2,3.17,12.52
+Jersey,322,7,Milk,Cold,2.92,1.41,7.6
+Gir,421,5,Meat,Cold,5.31,1.84,8.71
+Gir,602,7,Milk,Cold,5.61,3.06,13.25
+Sahiwal,476,4,Milk,Moderate,4.78,1.82,10.5
+Jersey,251,5,Milk,Cold,2.38,1.09,5.63
+Red Sindhi,407,4,Meat,Moderate,4.85,2.36,8.91
+Holstein,250,10,Milk,Cold,2.29,1.13,5.96
+Gir,305,5,Meat,Cold,3.91,1.27,6.61
+Sahiwal,606,8,Milk,Moderate,5.71,2.19,13.6
+Red Sindhi,333,3,Meat,Cold,4.11,1.38,6.11
+Holstein,540,9,Meat,Moderate,6.08,2.73,11.0
+Gir,493,7,Meat,Moderate,5.99,2.33,10.06
+Gir,311,2,Milk,Moderate,3.3,1.38,6.83
+Red Sindhi,361,5,Meat,Moderate,4.26,2.02,6.56
+Red Sindhi,538,2,Meat,Hot,6.27,2.21,10.48
+Jersey,406,2,Meat,Cold,5.1,1.97,8.91
+Jersey,360,6,Meat,Moderate,4.36,1.54,6.55
+Gir,333,7,Milk,Cold,3.32,1.64,8.11
+Holstein,316,3,Meat,Moderate,4.07,1.35,6.35
+Holstein,619,10,Milk,Hot,6.19,2.22,12.42
+Gir,508,7,Milk,Cold,5.54,2.64,10.54
+Sahiwal,396,5,Meat,Cold,4.78,2.28,8.54
+Red Sindhi,466,3,Meat,Moderate,5.59,2.42,9.63
+Gir,260,3,Meat,Moderate,3.31,1.43,5.26
+Sahiwal,467,10,Milk,Cold,5.1,2.27,10.73
+Red Sindhi,616,8,Milk,Cold,5.92,2.71,14.09
+Holstein,381,9,Meat,Cold,4.33,1.88,8.38
+Gir,292,5,Milk,Cold,2.75,1.31,6.37
+Red Sindhi,602,10,Meat,Moderate,7.64,3.09,11.91
+Holstein,593,10,Meat,Moderate,7.26,2.73,12.64
+Holstein,555,5,Milk,Hot,5.13,1.88,12.79
+Jersey,385,6,Milk,Moderate,4.09,1.57,9.09
+Jersey,636,4,Milk,Cold,5.87,3.25,12.82
+Jersey,447,10,Milk,Moderate,4.86,1.6,11.08
+Sahiwal,572,10,Milk,Cold,6.06,2.84,13.38
+Sahiwal,413,2,Milk,Cold,3.8,2.12,9.02
+Gir,460,6,Milk,Cold,4.27,1.89,9.78
+Holstein,333,9,Meat,Cold,3.75,1.98,6.32
+Red Sindhi,280,10,Meat,Hot,3.18,1.67,5.77
+Sahiwal,497,10,Meat,Moderate,5.98,2.53,10.36
+Holstein,613,5,Meat,Moderate,7.08,2.75,13.21
+Red Sindhi,428,9,Meat,Moderate,5.06,2.24,9.32
+Holstein,363,6,Milk,Cold,3.77,1.47,7.47
+Sahiwal,474,8,Milk,Hot,4.59,1.89,10.41
+Jersey,614,7,Milk,Hot,6.69,2.43,14.96
+Sahiwal,471,10,Milk,Cold,5.06,2.1,9.95
+Jersey,561,4,Milk,Cold,5.43,2.34,11.44
+Sahiwal,636,4,Meat,Cold,7.33,3.09,12.69
+Holstein,404,2,Milk,Hot,4.35,1.85,8.22
+Gir,530,5,Milk,Moderate,5.03,1.74,11.4
+Gir,575,2,Meat,Moderate,7.3,2.81,11.5
+Jersey,481,8,Milk,Moderate,4.41,1.81,10.83
+Gir,312,5,Milk,Hot,3.34,1.39,7.34
+Gir,412,6,Milk,Moderate,4.19,1.53,10.18
+Red Sindhi,568,5,Meat,Hot,7.14,3.13,10.6
+Holstein,539,6,Meat,Moderate,6.2,2.7,11.3
+Holstein,624,3,Meat,Cold,6.91,3.17,13.65
+Gir,335,6,Milk,Moderate,3.44,1.46,7.13
+Sahiwal,509,3,Meat,Hot,6.17,2.92,10.38
+Jersey,451,4,Milk,Cold,4.21,2.04,10.41
+Holstein,304,6,Meat,Hot,3.92,1.23,5.78
+Holstein,554,6,Milk,Cold,5.63,2.62,12.51
+Jersey,436,6,Milk,Cold,4.19,2.48,8.84
+Jersey,601,8,Milk,Cold,5.67,3.53,12.8
+Red Sindhi,508,4,Milk,Cold,5.45,2.83,10.66
+Jersey,410,4,Milk,Moderate,4.1,1.71,9.78
+Gir,309,5,Meat,Cold,3.9,1.84,5.66
+Holstein,328,4,Meat,Moderate,4.25,1.67,6.26
+Gir,649,8,Milk,Moderate,6.68,2.32,13.12
+Holstein,250,7,Meat,Hot,2.86,1.33,5.04
+Sahiwal,627,9,Milk,Moderate,6.03,1.92,15.14
+Sahiwal,302,9,Milk,Cold,3.06,1.75,7.23
+Sahiwal,534,3,Milk,Cold,4.93,3.13,12.41
+Gir,555,6,Meat,Moderate,6.69,2.22,11.86
+Gir,333,10,Meat,Hot,4.15,1.77,6.31
+Jersey,400,4,Meat,Hot,4.74,2.18,7.51
+Jersey,631,10,Milk,Cold,6.42,3.71,14.67
+Red Sindhi,457,9,Meat,Moderate,5.48,2.28,9.48
+Jersey,533,3,Meat,Moderate,5.97,3.06,11.41
+Gir,542,7,Meat,Moderate,6.93,2.27,11.13
+Gir,627,10,Milk,Moderate,5.94,2.11,13.26
+Holstein,304,5,Meat,Hot,3.68,1.62,5.68
+Sahiwal,549,8,Meat,Hot,7.0,2.86,11.8
+Holstein,337,6,Milk,Cold,3.66,1.59,8.25
+Red Sindhi,457,2,Milk,Moderate,4.95,1.95,11.01
+Gir,519,3,Milk,Cold,4.97,2.43,12.32
+Sahiwal,472,10,Meat,Hot,5.59,2.2,8.77
+Sahiwal,578,8,Meat,Moderate,7.44,2.91,10.67
+Gir,604,6,Meat,Cold,6.96,2.54,12.24
+Sahiwal,534,8,Meat,Cold,5.98,2.83,11.72
+Sahiwal,279,3,Milk,Hot,2.85,1.02,6.74
+Jersey,422,3,Milk,Cold,3.95,2.05,10.35
+Holstein,434,9,Meat,Cold,4.94,1.87,8.7
+Sahiwal,321,4,Milk,Cold,3.36,1.44,7.91
+Gir,605,8,Milk,Cold,5.66,3.0,14.94
+Sahiwal,596,6,Meat,Hot,7.66,3.43,12.4
+Sahiwal,399,9,Meat,Hot,5.14,2.21,8.5
+Jersey,301,10,Meat,Cold,3.85,1.24,5.86
+Sahiwal,479,6,Milk,Hot,4.51,1.97,10.4
+Jersey,475,2,Milk,Hot,4.43,2.11,9.84
+Sahiwal,310,8,Milk,Cold,2.91,1.35,6.43
+Jersey,451,6,Milk,Moderate,4.81,1.89,10.73
+Jersey,370,10,Milk,Moderate,3.85,1.37,8.79
+Gir,638,8,Meat,Hot,7.99,2.65,11.96
+Jersey,511,9,Meat,Cold,6.01,2.65,10.93
+Jersey,580,5,Milk,Hot,5.27,2.29,11.9
+Sahiwal,408,3,Meat,Hot,5.25,1.64,7.81
+Jersey,465,2,Meat,Hot,5.64,2.34,10.12
+Red Sindhi,308,4,Milk,Moderate,3.07,1.01,7.22
+Red Sindhi,408,9,Meat,Cold,5.02,2.23,7.72
+Jersey,534,7,Meat,Hot,6.43,2.6,9.72
+Sahiwal,328,10,Meat,Moderate,4.04,1.67,5.99
+Sahiwal,438,3,Milk,Moderate,4.58,1.61,8.92
+Gir,627,9,Meat,Cold,7.68,3.46,11.73
+Sahiwal,336,7,Meat,Hot,3.8,2.0,7.33
+Sahiwal,632,7,Meat,Moderate,7.88,2.87,12.41
+Red Sindhi,324,7,Meat,Hot,4.11,1.81,6.26
+Jersey,608,6,Meat,Moderate,7.46,2.91,12.46
+Sahiwal,439,2,Meat,Moderate,5.37,2.56,9.04
+Red Sindhi,620,3,Meat,Cold,7.87,3.13,13.6
+Gir,316,8,Milk,Moderate,3.27,1.47,7.56
+Sahiwal,539,6,Meat,Cold,6.91,3.18,11.44
+Jersey,502,7,Milk,Hot,5.28,2.28,11.27
+Gir,334,7,Meat,Hot,4.26,1.44,6.74
+Jersey,485,6,Milk,Moderate,5.15,2.07,11.84
+Sahiwal,490,5,Meat,Moderate,6.21,2.69,9.39
+Jersey,305,8,Meat,Cold,3.56,1.28,5.73
+Jersey,558,2,Milk,Cold,5.36,2.55,12.79
+Red Sindhi,471,2,Milk,Hot,4.73,2.11,10.19
+Jersey,627,7,Milk,Cold,6.0,3.11,13.99
+Gir,332,10,Milk,Hot,3.52,1.08,7.12
+Gir,420,5,Milk,Hot,3.95,1.84,8.41
+Red Sindhi,340,6,Milk,Moderate,3.07,1.43,7.66
+Gir,355,9,Meat,Cold,4.13,1.43,7.13
+Sahiwal,586,3,Meat,Moderate,7.49,2.48,11.32
+Jersey,252,5,Milk,Moderate,2.5,1.05,5.14
+Holstein,422,4,Meat,Moderate,5.3,2.36,8.49
+Sahiwal,464,6,Milk,Moderate,4.6,1.52,10.65
+Red Sindhi,442,6,Milk,Hot,4.24,1.45,10.76
+Red Sindhi,376,8,Milk,Moderate,3.95,1.66,8.26
+Sahiwal,534,10,Meat,Moderate,6.71,2.22,10.83
+Sahiwal,263,7,Meat,Hot,2.94,1.07,5.34
+Red Sindhi,336,10,Milk,Cold,3.18,1.75,7.1
+Holstein,349,7,Meat,Hot,4.29,1.6,7.62
+Gir,403,6,Meat,Hot,4.49,2.29,8.39
+Gir,490,8,Milk,Hot,4.67,1.52,9.88
+Gir,380,9,Milk,Cold,4.04,2.07,7.62
+Gir,496,2,Milk,Hot,5.43,1.6,12.39
+Gir,616,4,Meat,Moderate,7.21,2.64,12.4
+Gir,379,3,Milk,Moderate,3.57,1.39,9.1
+Jersey,261,5,Milk,Hot,2.66,1.21,6.02
+Sahiwal,489,9,Milk,Cold,4.95,2.61,10.54
+Red Sindhi,295,5,Meat,Hot,3.26,1.57,6.0
+Sahiwal,473,7,Meat,Cold,5.68,2.66,10.23
+Gir,583,2,Milk,Hot,5.86,1.92,11.81
+Holstein,379,7,Milk,Moderate,3.82,1.41,7.76
+Sahiwal,569,8,Milk,Moderate,5.8,2.11,12.93
+Sahiwal,280,3,Milk,Hot,2.8,1.08,6.81
+Gir,516,8,Meat,Moderate,5.9,2.66,9.9
+Sahiwal,266,5,Meat,Hot,3.44,1.24,5.01
+Gir,404,4,Meat,Moderate,5.13,1.71,7.94
+Jersey,606,6,Meat,Cold,7.47,2.6,11.17
+Red Sindhi,632,2,Meat,Cold,7.54,3.49,12.33
+Red Sindhi,426,7,Meat,Moderate,4.97,2.03,9.07
+Jersey,427,5,Meat,Cold,4.93,1.77,8.56
+Holstein,463,4,Meat,Moderate,5.38,2.47,9.04
+Jersey,387,8,Meat,Hot,4.57,2.04,8.27
+Red Sindhi,445,8,Meat,Hot,5.66,2.19,8.99
+Gir,600,10,Milk,Moderate,6.11,2.92,14.58
+Red Sindhi,493,5,Meat,Moderate,5.86,2.23,10.47
+Holstein,560,7,Meat,Cold,7.06,2.95,11.71
+Sahiwal,359,5,Meat,Hot,4.25,1.69,6.93
+Red Sindhi,589,6,Milk,Cold,6.15,3.18,11.78
+Sahiwal,445,3,Milk,Hot,4.42,1.79,10.68
+Gir,616,4,Milk,Hot,6.64,2.42,13.97
+Red Sindhi,474,6,Milk,Moderate,4.94,2.28,10.73
+Jersey,485,4,Meat,Moderate,6.09,2.65,9.51
+Red Sindhi,292,7,Milk,Hot,2.69,1.22,7.04
+Sahiwal,424,7,Meat,Hot,5.3,2.14,8.58
+Red Sindhi,251,2,Milk,Moderate,2.3,1.06,5.18
+Jersey,304,6,Milk,Cold,2.75,1.82,6.4
+Holstein,410,4,Meat,Cold,5.16,2.3,8.65
+Red Sindhi,298,2,Milk,Moderate,3.26,1.29,6.48
+Sahiwal,571,6,Meat,Cold,6.88,3.19,11.51
+Gir,336,3,Meat,Hot,3.77,1.83,6.46
+Sahiwal,539,3,Meat,Moderate,6.72,2.4,11.31
+Holstein,276,7,Meat,Cold,3.4,1.52,5.05
+Sahiwal,536,5,Meat,Moderate,6.43,2.18,9.77
+Red Sindhi,586,6,Meat,Cold,7.21,3.05,12.01
+Gir,264,4,Meat,Moderate,3.12,1.57,5.0
+Gir,487,9,Meat,Cold,5.54,2.8,10.47
+Holstein,347,8,Milk,Cold,3.58,1.39,7.24
+Red Sindhi,430,6,Milk,Cold,3.98,2.52,9.0
+Gir,456,3,Milk,Hot,4.16,1.38,11.3
+Red Sindhi,352,3,Milk,Hot,3.31,1.42,8.18
+Jersey,307,4,Meat,Cold,3.44,1.27,6.67
+Gir,538,8,Meat,Hot,6.87,3.23,11.03
+Jersey,613,3,Meat,Cold,6.77,2.74,12.26
+Jersey,303,5,Meat,Moderate,3.45,1.53,6.62
+Holstein,332,6,Meat,Moderate,4.12,1.5,7.24
+Gir,316,8,Meat,Cold,3.83,1.43,6.91
+Sahiwal,605,2,Milk,Moderate,5.53,2.39,13.72
+Holstein,302,3,Meat,Cold,3.74,1.46,6.49
+Holstein,533,7,Meat,Cold,6.19,2.53,11.44
+Holstein,257,7,Milk,Moderate,2.39,1.08,5.86
+Sahiwal,315,3,Milk,Moderate,2.88,1.35,6.75
+Gir,404,7,Meat,Moderate,5.22,2.14,8.87
+Gir,299,7,Meat,Moderate,3.73,1.74,5.87
+Gir,254,5,Milk,Cold,2.42,1.51,5.5
+Holstein,332,5,Meat,Moderate,3.82,1.69,6.03
+Jersey,352,9,Milk,Hot,3.32,1.71,8.75
+Gir,365,10,Milk,Hot,3.58,1.57,7.79
+Holstein,536,8,Milk,Moderate,5.82,2.64,10.96
+Jersey,257,9,Milk,Hot,2.58,1.16,6.34
+Gir,507,5,Milk,Moderate,5.23,2.08,12.32
+Red Sindhi,536,5,Milk,Cold,5.3,2.81,12.18
+Red Sindhi,522,6,Meat,Cold,5.82,3.06,10.69
+Sahiwal,295,6,Meat,Moderate,3.67,1.55,5.82
+Sahiwal,562,8,Milk,Hot,5.32,2.73,13.91
+Jersey,360,8,Meat,Moderate,4.33,2.05,6.81
+Holstein,645,7,Milk,Hot,6.58,2.62,13.82
+Red Sindhi,527,3,Meat,Cold,6.85,2.7,9.64
+Red Sindhi,481,3,Meat,Cold,6.12,2.36,8.92
+Gir,429,4,Meat,Moderate,4.9,1.91,8.54
+Jersey,295,5,Milk,Moderate,3.15,1.3,6.21
+Holstein,507,4,Meat,Hot,6.09,2.75,9.57
+Red Sindhi,360,9,Milk,Hot,3.65,1.66,8.21
+Holstein,538,5,Milk,Moderate,5.02,1.7,11.37
+Gir,642,6,Meat,Hot,7.41,3.84,12.35
+Holstein,385,2,Meat,Hot,4.62,1.68,7.21
+Jersey,281,10,Milk,Cold,2.98,1.36,6.91
+Jersey,389,2,Milk,Cold,3.53,1.84,9.45
+Red Sindhi,574,6,Milk,Cold,5.38,3.36,12.34
+Jersey,581,8,Milk,Cold,5.45,2.81,13.85
+Holstein,353,4,Milk,Hot,3.71,1.17,7.12
+Gir,449,7,Meat,Moderate,5.4,2.29,8.31
+Holstein,290,2,Milk,Hot,3.06,0.95,5.84
+Sahiwal,643,4,Milk,Moderate,5.84,2.29,14.57
+Holstein,475,9,Meat,Moderate,5.46,2.67,8.58
+Holstein,582,6,Meat,Moderate,7.31,2.72,10.78
+Red Sindhi,412,8,Milk,Cold,4.25,2.17,9.34
+Gir,561,7,Meat,Cold,7.16,3.23,11.26
+Sahiwal,273,7,Milk,Moderate,2.98,0.86,5.85
+Jersey,496,6,Milk,Moderate,5.4,2.25,11.55
+Sahiwal,634,7,Milk,Hot,6.22,2.98,15.06
+Sahiwal,482,2,Milk,Hot,4.76,1.82,11.9
+Jersey,452,4,Milk,Cold,4.52,2.69,9.05
+Holstein,616,2,Meat,Moderate,6.86,3.54,12.16
+Jersey,464,8,Milk,Hot,4.89,1.77,9.65
+Holstein,514,9,Meat,Hot,5.87,2.43,9.77
+Jersey,606,8,Meat,Hot,7.33,2.94,12.8
+Holstein,491,3,Milk,Moderate,4.96,2.41,11.64
+Jersey,291,6,Meat,Moderate,3.62,1.66,5.34
+Holstein,553,6,Meat,Hot,6.56,2.57,10.45
+Holstein,612,7,Meat,Hot,7.03,2.92,12.1
+Holstein,476,8,Meat,Cold,5.33,2.83,8.61
+Red Sindhi,531,7,Milk,Hot,5.54,1.94,12.79
+Holstein,589,10,Milk,Hot,5.4,2.3,13.69
+Jersey,360,8,Meat,Cold,4.42,1.98,7.06
+Red Sindhi,290,9,Meat,Moderate,3.62,1.4,6.09
+Sahiwal,575,8,Meat,Hot,6.73,3.26,10.46
+Holstein,448,6,Milk,Moderate,4.82,1.96,9.51
+Red Sindhi,417,9,Meat,Moderate,5.29,2.46,8.39
+Sahiwal,260,10,Meat,Moderate,2.97,1.46,4.77
+Red Sindhi,298,7,Meat,Cold,3.66,1.7,5.76
+Jersey,598,3,Milk,Moderate,6.56,2.48,12.72
+Holstein,575,3,Milk,Cold,6.05,2.35,13.29
+Holstein,631,4,Meat,Hot,7.81,2.77,11.37
+Holstein,546,2,Milk,Moderate,5.5,1.66,11.89
+Holstein,280,6,Milk,Moderate,3.04,0.84,6.77
+Jersey,611,5,Meat,Hot,7.48,3.16,11.99
+Holstein,595,6,Milk,Hot,6.35,2.76,13.38
+Holstein,599,9,Milk,Cold,6.07,2.46,12.26
+Sahiwal,492,9,Milk,Hot,5.39,2.24,10.17
+Red Sindhi,392,7,Milk,Moderate,3.99,1.67,9.56
+Holstein,604,10,Milk,Cold,6.03,3.47,13.51
+Gir,621,9,Meat,Hot,7.37,3.56,13.02
+Sahiwal,395,6,Milk,Hot,3.85,1.84,9.19
+Holstein,566,6,Milk,Cold,5.65,2.35,11.51
+Jersey,604,5,Milk,Hot,6.41,1.85,14.15
+Sahiwal,574,6,Milk,Cold,6.12,2.41,11.51
+Gir,354,5,Meat,Cold,4.57,1.93,6.88
+Red Sindhi,635,2,Milk,Moderate,6.35,2.21,14.04
+Gir,312,7,Meat,Cold,4.05,1.8,6.75
+Red Sindhi,610,10,Meat,Moderate,7.67,2.47,12.15
+Gir,485,2,Milk,Hot,4.47,2.37,11.04
+Jersey,344,9,Milk,Cold,3.12,1.9,7.18
+Red Sindhi,483,4,Milk,Hot,4.37,1.5,11.97
+Holstein,489,10,Milk,Moderate,5.37,1.68,10.39
+Red Sindhi,565,3,Milk,Cold,5.89,3.39,13.83
+Gir,583,7,Milk,Hot,6.18,1.98,11.92
+Holstein,432,7,Milk,Cold,3.95,2.59,9.7
+Holstein,350,8,Milk,Moderate,3.78,1.6,8.1
+Holstein,580,5,Milk,Cold,5.23,2.49,13.44
+Sahiwal,276,7,Milk,Cold,2.65,1.48,6.4
+Jersey,572,6,Milk,Hot,5.69,2.18,12.65
+Gir,302,8,Meat,Moderate,3.6,1.33,6.06
+Red Sindhi,420,8,Meat,Cold,5.28,2.01,8.54
+Sahiwal,306,2,Meat,Hot,3.93,1.54,5.86
+Red Sindhi,499,2,Meat,Moderate,5.6,2.44,9.55
+Gir,523,9,Meat,Moderate,5.84,2.3,11.13
+Jersey,336,4,Meat,Moderate,3.93,1.72,6.15
+Gir,380,3,Meat,Hot,4.28,1.96,6.88
+Holstein,540,5,Milk,Cold,5.25,3.14,12.45
+Gir,299,6,Meat,Cold,3.64,1.63,6.37
+Holstein,296,4,Meat,Moderate,3.46,1.76,5.91
+Red Sindhi,649,2,Milk,Cold,6.84,3.51,13.85
+Sahiwal,291,7,Milk,Hot,2.87,1.33,6.18
+Holstein,584,3,Milk,Moderate,5.71,2.13,14.11
+Sahiwal,513,2,Milk,Hot,5.23,1.57,11.17
+Holstein,570,4,Milk,Cold,5.6,3.42,13.34
+Holstein,348,6,Milk,Hot,3.54,1.59,8.57
+Holstein,538,9,Meat,Cold,6.6,2.89,10.23
+Gir,283,6,Milk,Moderate,2.67,1.0,6.13
+Gir,544,5,Meat,Hot,6.38,2.58,11.55
+Jersey,525,3,Milk,Moderate,5.24,1.63,11.7
+Gir,465,7,Milk,Cold,4.63,2.31,10.07
+Red Sindhi,625,4,Meat,Hot,7.2,3.44,12.96
+Holstein,583,3,Milk,Cold,5.84,2.68,11.88
+Sahiwal,615,10,Meat,Cold,7.15,2.88,11.56
+Holstein,513,4,Meat,Hot,6.27,2.27,9.78
+Sahiwal,361,10,Milk,Hot,3.53,1.21,8.04
+Jersey,266,9,Milk,Hot,2.47,1.08,6.51
+Jersey,575,10,Meat,Moderate,6.83,3.34,11.57
+Jersey,497,4,Meat,Cold,6.05,2.14,10.06
+Gir,638,6,Meat,Hot,7.79,3.65,13.16
+Sahiwal,522,9,Meat,Hot,6.61,2.91,11.15
+Gir,438,9,Meat,Hot,5.06,2.56,9.45
+Jersey,650,4,Meat,Cold,7.71,2.62,12.98
+Sahiwal,528,4,Milk,Hot,5.46,2.64,11.46
+Gir,529,7,Milk,Moderate,5.51,2.59,11.28
+Sahiwal,493,7,Meat,Hot,5.76,2.34,10.26
+Red Sindhi,251,7,Milk,Moderate,2.6,1.03,5.12
+Gir,596,3,Meat,Cold,7.13,3.53,12.31
+Jersey,636,10,Meat,Hot,7.29,3.75,11.82
+Jersey,350,6,Milk,Hot,3.47,1.35,7.94
+Jersey,353,4,Milk,Hot,3.53,1.66,8.17
+Red Sindhi,640,3,Milk,Cold,6.3,3.63,13.75
+Jersey,524,5,Milk,Hot,5.24,1.94,11.91
+Jersey,515,9,Meat,Cold,5.98,2.29,9.98
+Gir,494,6,Meat,Moderate,5.5,2.23,9.43
+Red Sindhi,306,9,Milk,Cold,3.35,1.61,6.4
+Gir,330,5,Milk,Cold,3.47,1.95,8.22
+Jersey,306,3,Milk,Moderate,3.2,1.05,7.29
+Red Sindhi,335,7,Milk,Moderate,3.61,1.48,6.83
+Red Sindhi,452,3,Milk,Cold,4.66,1.84,10.88
+Jersey,410,5,Meat,Hot,4.56,2.27,8.74
+Jersey,393,10,Meat,Hot,4.76,1.76,8.06
+Red Sindhi,353,8,Meat,Cold,4.08,1.42,6.67
+Red Sindhi,379,10,Milk,Hot,3.86,1.34,7.81
+Red Sindhi,566,9,Milk,Moderate,5.2,2.49,14.08
+Red Sindhi,271,5,Meat,Moderate,3.01,1.13,5.51
+Red Sindhi,383,10,Milk,Hot,3.99,1.17,8.6
+Sahiwal,446,10,Milk,Moderate,4.02,2.1,9.7
+Holstein,645,4,Milk,Moderate,6.68,2.39,14.4
+Sahiwal,620,5,Meat,Moderate,7.04,3.28,12.36
+Sahiwal,356,6,Milk,Cold,3.63,2.13,7.94
+Jersey,481,5,Meat,Moderate,5.9,2.23,9.78
+Holstein,333,10,Meat,Cold,4.05,1.66,6.09
+Red Sindhi,503,6,Meat,Hot,6.33,2.18,9.35
+Holstein,557,6,Meat,Moderate,6.33,3.12,11.45
+Jersey,623,8,Meat,Cold,7.21,3.52,13.7
+Gir,440,7,Milk,Cold,4.52,2.21,9.25
+Gir,493,10,Meat,Hot,6.19,2.58,10.74
+Sahiwal,498,8,Milk,Cold,5.47,2.64,11.89
+Red Sindhi,430,10,Milk,Moderate,4.4,1.81,10.44
+Gir,261,5,Milk,Moderate,2.4,1.27,6.02
+Red Sindhi,441,4,Meat,Hot,5.12,1.98,8.74
+Holstein,442,2,Milk,Hot,4.49,1.66,9.67
+Holstein,367,9,Meat,Cold,4.74,1.8,6.69
+Sahiwal,473,6,Meat,Cold,5.45,2.5,9.21
+Red Sindhi,641,6,Meat,Cold,7.26,2.68,13.35
+Jersey,382,8,Meat,Moderate,4.76,1.66,6.99
+Red Sindhi,387,2,Milk,Moderate,3.49,1.3,9.66
+Jersey,455,10,Milk,Cold,4.91,2.53,9.66
+Holstein,568,6,Meat,Cold,6.86,2.93,10.78
+Gir,573,6,Meat,Cold,6.5,2.45,10.46
+Gir,521,10,Milk,Cold,5.02,2.47,12.73
+Gir,413,4,Milk,Cold,3.75,2.29,10.19
+Sahiwal,485,3,Milk,Cold,4.4,2.5,12.08
+Gir,488,6,Meat,Moderate,6.08,2.65,10.25
+Sahiwal,633,2,Meat,Hot,7.17,2.55,13.5
+Sahiwal,318,8,Meat,Hot,3.95,1.48,6.49
+Red Sindhi,356,3,Milk,Moderate,3.26,1.52,7.25
+Gir,552,7,Meat,Hot,6.81,2.41,10.36
+Gir,327,7,Meat,Moderate,4.24,1.65,6.76
+Gir,596,9,Meat,Hot,6.62,2.73,12.69
+Red Sindhi,625,6,Meat,Hot,7.93,3.54,12.41
+Sahiwal,363,5,Meat,Hot,4.07,1.84,7.65
+Holstein,562,9,Meat,Cold,7.05,3.1,10.63
+Gir,565,4,Milk,Cold,5.93,3.23,13.4
+Holstein,448,3,Milk,Cold,4.05,1.85,10.25
+Jersey,297,8,Meat,Hot,3.38,1.4,6.03
+Jersey,515,2,Milk,Moderate,5.27,1.99,11.08
+Holstein,600,3,Milk,Cold,6.0,2.41,14.83
+Holstein,444,7,Milk,Cold,4.35,1.88,8.91
+Holstein,508,5,Meat,Hot,5.83,2.05,10.27
+Sahiwal,418,2,Meat,Moderate,5.35,2.38,8.38
+Gir,283,10,Milk,Cold,3.0,1.41,6.19
+Gir,286,4,Milk,Moderate,2.76,1.23,6.5
+Red Sindhi,565,3,Meat,Moderate,7.09,2.46,11.76
+Holstein,342,3,Milk,Hot,3.35,1.09,8.32
+Sahiwal,498,8,Meat,Cold,6.27,2.39,10.1
+Gir,455,2,Meat,Hot,5.62,1.9,9.87
+Holstein,257,9,Milk,Hot,2.43,0.82,5.4
+Sahiwal,518,8,Milk,Hot,5.13,1.7,11.68
+Red Sindhi,252,5,Milk,Cold,2.38,1.5,5.31
+Gir,580,7,Milk,Hot,5.22,1.79,13.54
+Jersey,327,2,Milk,Hot,3.54,1.44,7.83
+Red Sindhi,278,5,Milk,Hot,2.84,0.84,5.82
+Gir,511,6,Milk,Cold,5.19,2.52,10.59
+Sahiwal,386,4,Meat,Hot,4.89,1.95,7.92
+Holstein,371,6,Meat,Hot,4.7,1.74,7.12
+Red Sindhi,456,5,Milk,Hot,4.96,2.1,9.55
+Holstein,332,7,Milk,Cold,3.37,1.56,7.98
+Jersey,618,2,Milk,Cold,6.01,2.52,14.28
+Gir,515,9,Meat,Cold,5.95,3.0,10.76
+Red Sindhi,402,4,Meat,Moderate,5.03,1.77,8.19
+Holstein,275,6,Milk,Cold,2.77,1.25,6.0
+Sahiwal,590,8,Milk,Cold,6.02,3.08,12.42
+Red Sindhi,543,5,Meat,Cold,7.03,2.28,9.84
+Gir,346,6,Meat,Moderate,4.06,1.53,6.25
+Red Sindhi,331,4,Meat,Moderate,3.99,1.73,6.34
+Sahiwal,292,5,Meat,Cold,3.28,1.73,6.24
+Sahiwal,464,6,Milk,Hot,4.97,1.73,9.56
+Sahiwal,567,5,Milk,Cold,5.94,2.75,11.64
+Sahiwal,370,9,Meat,Moderate,4.46,1.68,7.0
+Jersey,307,3,Milk,Moderate,3.02,1.17,6.63
+Gir,579,5,Meat,Moderate,6.7,3.25,10.43
+Jersey,561,9,Meat,Moderate,6.62,3.05,10.55
+Sahiwal,357,3,Meat,Hot,4.49,2.09,6.85
+Red Sindhi,537,2,Meat,Moderate,6.8,2.7,10.58
+Sahiwal,513,5,Milk,Moderate,5.05,2.34,11.01
+Red Sindhi,280,5,Meat,Cold,3.12,1.17,6.03
+Holstein,293,8,Milk,Hot,3.16,1.36,6.82
+Jersey,499,2,Milk,Hot,4.62,2.17,12.02
+Red Sindhi,468,2,Milk,Cold,5.11,2.2,9.82
+Sahiwal,619,5,Milk,Moderate,5.75,2.17,12.61
+Gir,468,4,Meat,Cold,5.96,2.18,9.92
+Gir,436,5,Meat,Hot,5.28,1.93,9.18
+Holstein,323,3,Meat,Cold,3.95,1.38,6.14
+Holstein,547,5,Meat,Moderate,6.33,2.96,11.8
+Jersey,612,9,Meat,Cold,7.77,3.17,12.96
+Gir,322,9,Milk,Hot,3.07,1.61,7.38
+Red Sindhi,614,5,Meat,Hot,7.5,2.85,12.72
+Sahiwal,424,6,Meat,Hot,5.37,2.41,7.7
+Holstein,371,2,Meat,Moderate,4.38,1.51,7.64
+Jersey,411,2,Milk,Hot,4.48,1.28,9.59
+Jersey,333,2,Milk,Cold,3.58,1.91,6.8
+Sahiwal,344,4,Meat,Moderate,4.01,2.0,6.96
+Gir,319,6,Meat,Cold,3.91,1.55,6.2
+Holstein,608,8,Milk,Hot,6.48,2.01,13.14
+Holstein,584,7,Meat,Cold,6.59,2.85,10.99
+Gir,266,9,Meat,Hot,3.02,1.39,5.81
+Red Sindhi,473,10,Milk,Cold,4.36,2.16,10.88
+Holstein,264,3,Meat,Moderate,3.4,1.19,5.42
+Red Sindhi,616,3,Meat,Moderate,7.34,3.32,12.72
+Sahiwal,415,2,Meat,Moderate,4.8,2.24,8.89
+Holstein,351,7,Milk,Hot,3.19,1.13,7.74
+Holstein,560,2,Meat,Cold,6.44,2.33,12.22
+Holstein,497,5,Meat,Cold,5.6,2.36,10.91
+Holstein,304,5,Milk,Moderate,2.88,1.15,6.14
+Sahiwal,477,3,Meat,Hot,5.47,1.99,10.33
+Holstein,650,10,Milk,Cold,6.54,3.22,14.08
+Red Sindhi,467,7,Milk,Cold,4.81,2.02,10.78
+Jersey,328,8,Meat,Hot,4.03,1.56,6.33
+Sahiwal,616,9,Meat,Hot,7.42,2.5,13.0
+Jersey,615,6,Meat,Cold,6.78,2.77,12.64
+Holstein,280,5,Meat,Moderate,3.5,1.36,5.63
+Gir,271,6,Milk,Hot,2.65,1.14,6.68
+Sahiwal,324,8,Meat,Cold,3.6,1.89,6.87
+Sahiwal,257,6,Meat,Moderate,3.31,1.46,5.56
+Gir,498,7,Meat,Hot,5.68,2.24,10.68
+Jersey,590,4,Meat,Moderate,7.61,2.5,12.82
+Holstein,526,6,Milk,Hot,4.83,1.8,11.36
+Jersey,422,4,Meat,Hot,4.67,1.82,8.81
+Holstein,636,4,Meat,Hot,7.02,3.7,13.0
+Jersey,423,6,Meat,Cold,5.48,2.22,8.78
+Gir,561,6,Meat,Hot,7.22,2.44,11.81
+Holstein,391,6,Meat,Cold,4.31,2.05,7.31
+Jersey,312,7,Meat,Cold,3.81,1.8,6.03
+Holstein,430,4,Meat,Moderate,4.82,2.2,8.51
+Sahiwal,337,8,Meat,Hot,4.33,1.43,6.35
+Holstein,325,3,Milk,Moderate,3.46,1.24,7.17
+Sahiwal,342,10,Milk,Hot,3.52,1.44,7.05
+Holstein,340,6,Milk,Cold,3.17,1.38,8.11
+Sahiwal,506,3,Meat,Cold,5.6,2.31,9.41
+Holstein,639,10,Milk,Moderate,6.35,3.08,14.89
+Gir,328,9,Milk,Moderate,3.31,1.25,7.08
+Gir,348,9,Meat,Cold,4.24,1.55,6.44
+Jersey,530,5,Milk,Hot,5.74,1.84,12.78
+Holstein,273,4,Milk,Moderate,2.57,1.15,5.86
+Sahiwal,403,3,Milk,Moderate,4.31,1.39,8.61
+Gir,294,5,Meat,Cold,3.49,1.32,5.52
+Jersey,447,2,Milk,Moderate,4.8,1.61,10.46
+Sahiwal,509,7,Milk,Moderate,4.99,2.14,10.56
+Holstein,398,9,Milk,Moderate,3.69,1.44,8.78
+Jersey,333,9,Milk,Cold,3.29,1.9,7.35
+Red Sindhi,629,2,Meat,Hot,7.85,3.33,13.55
+Gir,411,8,Milk,Hot,4.31,1.8,9.3
+Holstein,545,10,Meat,Cold,6.19,2.68,11.15
+Jersey,561,8,Meat,Cold,7.24,3.36,11.96
+Holstein,417,3,Meat,Moderate,4.98,1.84,8.64
+Holstein,383,2,Meat,Moderate,4.87,2.13,6.92
+Sahiwal,633,4,Meat,Cold,7.46,3.56,13.56
+Red Sindhi,428,7,Milk,Moderate,4.09,1.6,10.4
+Gir,448,2,Meat,Hot,4.95,2.29,8.55
+Red Sindhi,455,9,Milk,Moderate,4.89,1.77,10.65
+Sahiwal,294,9,Milk,Moderate,3.07,1.38,6.22
+Red Sindhi,455,6,Milk,Moderate,4.94,1.91,10.66
+Holstein,364,6,Meat,Hot,4.64,2.18,6.68
+Gir,443,7,Milk,Hot,4.72,2.03,10.07
+Red Sindhi,526,5,Meat,Moderate,6.31,2.23,10.29
+Holstein,259,3,Meat,Hot,2.94,1.21,5.5
+Gir,580,7,Meat,Hot,7.21,3.16,12.39
+Holstein,609,3,Meat,Cold,7.35,2.59,11.68
+Holstein,277,10,Meat,Cold,3.21,1.11,5.23
+Jersey,626,4,Meat,Cold,7.29,2.92,11.95
+Gir,459,4,Milk,Hot,4.46,1.95,10.13
+Jersey,443,8,Meat,Cold,5.25,1.8,8.07
+Gir,551,5,Meat,Hot,6.66,3.21,10.89
+Jersey,334,9,Milk,Hot,3.32,1.44,6.81
+Red Sindhi,355,9,Meat,Cold,4.41,1.98,6.72
+Gir,521,3,Meat,Hot,6.67,2.39,10.05
+Gir,618,6,Milk,Moderate,5.85,2.73,13.87
+Holstein,393,2,Meat,Hot,4.94,2.01,7.34
+Holstein,561,10,Milk,Hot,5.32,1.84,13.99
+Gir,421,6,Milk,Moderate,4.58,1.49,8.74
+Gir,322,3,Milk,Hot,3.46,1.2,7.66
+Red Sindhi,568,10,Milk,Hot,5.92,2.22,14.06
+Sahiwal,472,3,Milk,Cold,5.01,2.05,10.96
+Gir,633,8,Meat,Hot,7.84,3.7,12.74
+Holstein,556,7,Meat,Moderate,6.37,2.69,11.06
+Sahiwal,424,7,Meat,Cold,5.49,1.84,8.8
+Sahiwal,649,5,Milk,Hot,6.39,2.62,13.29
+Holstein,515,2,Meat,Cold,6.13,2.96,10.92
+Sahiwal,419,8,Meat,Cold,4.78,2.16,8.09
+Holstein,572,6,Meat,Cold,7.27,2.82,11.32
+Sahiwal,378,6,Meat,Hot,4.52,2.01,8.12
+Gir,288,7,Meat,Hot,3.3,1.34,5.49
+Red Sindhi,536,10,Milk,Hot,4.89,2.08,12.09
+Jersey,386,6,Meat,Moderate,4.5,1.8,7.1
+Gir,346,2,Meat,Moderate,4.49,1.98,7.34
+Gir,427,6,Milk,Hot,4.24,2.07,9.2
+Holstein,484,8,Milk,Moderate,5.24,2.25,11.7
+Gir,611,4,Meat,Moderate,7.41,2.56,11.74
+Sahiwal,541,8,Meat,Hot,6.08,2.79,11.76
+Holstein,622,3,Meat,Hot,7.3,2.71,12.23
+Jersey,274,5,Meat,Cold,3.3,1.39,5.66
+Gir,298,6,Milk,Moderate,2.94,1.46,6.4

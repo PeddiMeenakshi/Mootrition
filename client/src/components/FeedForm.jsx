@@ -1,9 +1,11 @@
 import React, { useState } from 'react';
-import { Button, TextField, MenuItem, Grid, InputAdornment } from '@mui/material';
+import {
+  Button, TextField, MenuItem, Grid, InputAdornment
+} from '@mui/material';
 import { Agriculture, LineWeight, CalendarToday, WbSunny } from '@mui/icons-material';
 import axios from '../api';
 
-const FeedForm = ({ setResult }) => {
+const FeedForm = ({ setResult, onPrediction }) => {
   const [form, setForm] = useState({
     breed: '',
     weight: '',
@@ -17,13 +19,19 @@ const FeedForm = ({ setResult }) => {
   };
 
   const handleSubmit = async () => {
-    try {
-      const res = await axios.post('/recommend', form);
-      setResult(res.data);
-    } catch (err) {
-      console.error(err);
+  try {
+    const res = await axios.post('/recommend', form);
+    setResult(res.data);
+    // console.log("fea",res.data.concentrate)
+    // const { Dry_Fodder_kg, Concentrate_kg, Green_Fodder_kg } = res.data;
+
+    if (onPrediction) {
+      onPrediction([res.data.dry_fodder, res.data.concentrate, res.data.green_fodder]);
     }
-  };
+  } catch (err) {
+    console.error('Prediction error:', err);
+  }
+};
 
   return (
     <Grid container spacing={2}>
@@ -50,19 +58,27 @@ const FeedForm = ({ setResult }) => {
           type="number"
           value={form.weight}
           onChange={handleChange}
-          InputProps={{ startAdornment: <InputAdornment position="start"><LineWeight /></InputAdornment> }}
+          InputProps={{
+            startAdornment: (
+              <InputAdornment position="start"><LineWeight /></InputAdornment>
+            )
+          }}
         />
       </Grid>
 
       <Grid item xs={12} sm={6}>
         <TextField
           fullWidth
-          label="🎂 Age (months)"
+          label="🎂 Age (years)"
           name="age"
           type="number"
           value={form.age}
           onChange={handleChange}
-          InputProps={{ startAdornment: <InputAdornment position="start"><CalendarToday /></InputAdornment> }}
+          InputProps={{
+            startAdornment: (
+              <InputAdornment position="start"><CalendarToday /></InputAdornment>
+            )
+          }}
         />
       </Grid>
 
@@ -89,7 +105,11 @@ const FeedForm = ({ setResult }) => {
           select
           value={form.weather}
           onChange={handleChange}
-          InputProps={{ startAdornment: <InputAdornment position="start"><WbSunny /></InputAdornment> }}
+          InputProps={{
+            startAdornment: (
+              <InputAdornment position="start"><WbSunny /></InputAdornment>
+            )
+          }}
         >
           {['Hot', 'Cold', 'Moderate'].map(w => (
             <MenuItem key={w} value={w}>{w}</MenuItem>

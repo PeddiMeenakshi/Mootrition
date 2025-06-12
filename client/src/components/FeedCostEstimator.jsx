@@ -1,12 +1,11 @@
 import React, { useState } from 'react';
-import { Box, Typography, MenuItem, FormControl, Select, InputLabel, Table, TableBody, TableCell, TableHead, TableRow, Paper } from '@mui/material';
+import {
+  Box, Typography, MenuItem, FormControl, Select,
+  InputLabel, Table, TableBody, TableCell, TableHead, TableRow, Paper
+} from '@mui/material';
 
 const feedPrices = {
-    
-  "None":{
-    "---":"----"
-  },
-  "Telangana": {
+  Telangana: {
     "Maize": 18,
     "Cottonseed Cake": 28,
     "Rice Bran": 15,
@@ -18,7 +17,7 @@ const feedPrices = {
     "Rice Bran": 16,
     "Silage": 6
   },
-  "Karnataka": {
+  Karnataka: {
     "Maize": 19,
     "Cottonseed Cake": 26,
     "Rice Bran": 14,
@@ -26,7 +25,7 @@ const feedPrices = {
   }
 };
 
-const FeedCostEstimator = () => {
+const FeedCostEstimator = ({ dietPrediction }) => {
   const [state, setState] = useState('');
 
   const handleChange = (event) => {
@@ -35,12 +34,24 @@ const FeedCostEstimator = () => {
 
   const currentPrices = feedPrices[state] || {};
 
-  return (
-    <Box mt={13}>
-      <Typography variant="h5" gutterBottom fontFamily="Quicksand">
-     choose a location
-      </Typography>
+  let totalCost = null;
+  if (
+    dietPrediction &&
+    dietPrediction.length === 3 &&
+    state &&
+    Object.keys(currentPrices).length > 0
+  ) {
+    const [dry, conc, green] = dietPrediction.map(val => parseFloat(val));
+    if (!isNaN(dry) && !isNaN(conc) && !isNaN(green)) {
+      const dryCost = (currentPrices["Maize"] || 0) * dry;
+      const concCost = (currentPrices["Cottonseed Cake"] || 0) * conc;
+      const greenCost = (currentPrices["Silage"] || 0) * green;
+      totalCost = (dryCost + concCost + greenCost).toFixed(2);
+    }
+  }
 
+  return (
+    <Box mt={4}>
       <FormControl fullWidth sx={{ my: 2 }}>
         <InputLabel>Select State</InputLabel>
         <Select value={state} label="Select State" onChange={handleChange}>
@@ -53,24 +64,32 @@ const FeedCostEstimator = () => {
       </FormControl>
 
       {state && (
-        <Paper elevation={3} sx={{ mt: 2 }}>
-          <Table>
-            <TableHead>
-              <TableRow>
-                <TableCell><strong>Feed Type</strong></TableCell>
-                <TableCell><strong>Estimated Price (₹/kg)</strong></TableCell>
-              </TableRow>
-            </TableHead>
-            <TableBody>
-              {Object.entries(currentPrices).map(([feed, price]) => (
-                <TableRow key={feed}>
-                  <TableCell>{feed}</TableCell>
-                  <TableCell>{price}</TableCell>
+        <>
+          <Paper elevation={3} sx={{ mt: 2 }}>
+            <Table>
+              <TableHead>
+                <TableRow>
+                  <TableCell><strong>Feed Type</strong></TableCell>
+                  <TableCell><strong>Estimated Price (₹/kg)</strong></TableCell>
                 </TableRow>
-              ))}
-            </TableBody>
-          </Table>
-        </Paper>
+              </TableHead>
+              <TableBody>
+                {Object.entries(currentPrices).map(([feed, price]) => (
+                  <TableRow key={feed}>
+                    <TableCell>{feed}</TableCell>
+                    <TableCell>{price}</TableCell>
+                  </TableRow>
+                ))}
+              </TableBody>
+            </Table>
+          </Paper>
+
+          {totalCost && (
+            <Typography variant="h6" sx={{ mt: 3 }} color="success.main" fontFamily="Quicksand">
+              💰 Estimated Daily Feed Cost: ₹{totalCost}
+            </Typography>
+          )}
+        </>
       )}
     </Box>
   );
